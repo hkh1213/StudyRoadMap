@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="MyCSRoadMap:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1cb9ec9f-733f-4764-8a20-0307e8af8621" name="Changes" comment="이건미친짓이야">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/career.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/career.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/stroadMap.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/stroadMap.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/stroadMapGuest.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/stroadMapGuest.jsp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/feature/커뮤니티" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="d80fc7eae79a7ad7ce7b9d8cbf09b7397d0b9ab5" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="1.8" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="1yfroHq5oUX3jIiKpWowVQNNYv9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.44894204" />
+    <property name="settings.editor.selected.configurable" value="build.tools" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\CSRoadMap\TEST\StudyRoadMap-StudyRoadMap_NOW5\src\main\webapp\WEB-INF\view" />
+      <recent name="C:\Users\wleo5\Desktop\프론트 리얼\StudyRoadMap\src\main\webapp\WEB-INF" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\CsRoadMap\StudyRoadMap\src\main\webapp\WEB-INF\view\images" />
+      <recent name="C:\RoadMapPrj#3\src\main\webapp\WEB-INF" />
+      <recent name="E:\CSRoadMap\StudyRoadMap\src\main\webapp\resources" />
+      <recent name="E:\CSRoadMap\StudyRoadMap\src\main\webapp\WEB-INF\view" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="jpa" />
+      <recent name="domain" />
+      <recent name="service" />
+      <recent name="service.impl" />
+      <recent name="persistence.mongo" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean" />
+      <command value="mvn install" />
+      <command value="mvn package" />
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="excludedTypes">
+      <set>
+        <option value="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 8.5.57" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.57" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="1.8" nameIsGenerated="true">
+      <option name="COMMON_VM_ARGUMENTS" value="-Dfile.encoding=UTF-8" />
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <deployment>
+        <artifact name="MyCSRoadMap:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="b503a6ca-c8c8-4f31-8bfd-a308980d75aa" />
+        <option name="HTTP_PORT" value="9000" />
+        <option name="JNDI_PORT" value="1088" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="56085" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="MyCSRoadMap:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1cb9ec9f-733f-4764-8a20-0307e8af8621" name="Changes" comment="이건미친짓이야" />
+      <created>1632653658849</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1632653658849</updated>
+      <workItem from="1632653664939" duration="9088000" />
+      <workItem from="1632662862516" duration="5854000" />
+      <workItem from="1633240972730" duration="243000" />
+      <workItem from="1633241380516" duration="6116000" />
+      <workItem from="1633261629472" duration="4732000" />
+      <workItem from="1633326926885" duration="8684000" />
+      <workItem from="1633339192146" duration="4775000" />
+      <workItem from="1633348697318" duration="8382000" />
+      <workItem from="1633535706451" duration="1194000" />
+      <workItem from="1633565047961" duration="5183000" />
+      <workItem from="1633755455552" duration="19264000" />
+      <workItem from="1633831782288" duration="8261000" />
+      <workItem from="1633864605898" duration="677000" />
+      <workItem from="1633870905631" duration="36869000" />
+      <workItem from="1633915193728" duration="1171000" />
+      <workItem from="1633916590319" duration="6487000" />
+      <workItem from="1634001814981" duration="1711000" />
+      <workItem from="1634025583366" duration="16699000" />
+      <workItem from="1634088315848" duration="26872000" />
+      <workItem from="1634124016527" duration="10571000" />
+      <workItem from="1634168430295" duration="31353000" />
+      <workItem from="1634367028629" duration="7554000" />
+      <workItem from="1634375309285" duration="21065000" />
+      <workItem from="1634452609963" duration="672000" />
+      <workItem from="1634454357674" duration="29134000" />
+      <workItem from="1634493662343" duration="13047000" />
+      <workItem from="1634555919395" duration="9672000" />
+      <workItem from="1634607734813" duration="5560000" />
+      <workItem from="1634615556722" duration="10481000" />
+      <workItem from="1634647678091" duration="1258000" />
+      <workItem from="1634703160948" duration="1437000" />
+      <workItem from="1634716060559" duration="949000" />
+      <workItem from="1634731338243" duration="68000" />
+      <workItem from="1634775563794" duration="1037000" />
+      <workItem from="1634793237706" duration="942000" />
+      <workItem from="1634821769591" duration="2573000" />
+      <workItem from="1634862400351" duration="4053000" />
+    </task>
+    <task id="LOCAL-00001" summary="[ADD] 커리어 로드맵 컨트롤러, 서비스, 프론트 추가">
+      <created>1633239962316</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1633239962317</updated>
+    </task>
+    <task id="LOCAL-00002" summary="[ADD] modal css 추가 (참고 : https://codepen.io/AbubakerSaeed/pen/eYOvKpY )">
+      <created>1633240007943</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1633240007947</updated>
+    </task>
+    <task id="LOCAL-00003" summary="[ADD] 경력카드 css, 모달 css 추가">
+      <created>1633274788376</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1633274788379</updated>
+    </task>
+    <task id="LOCAL-00004" summary="[UPDATE] 모달 동작 처리 수정">
+      <created>1633275055863</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1633275055864</updated>
+    </task>
+    <task id="LOCAL-00005" summary="[STYLE] bootstrap.min.css와 modal.css의 modal.css의 동시 사용시 오류 발생 =&gt; bootstrap.min.css의 modal 관련 주석처리">
+      <created>1633764754601</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1633764754601</updated>
+    </task>
+    <task id="LOCAL-00006" summary="[STYLE] button 관련 css, js 수정">
+      <created>1633850673723</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1633850673723</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/feature/커뮤니티" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/feature/커뮤니티" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="[UPDATE]" />
+    <MESSAGE value="[INITIAL]-test.java file에서 mongodb연결 이슈 null값 반환" />
+    <MESSAGE value="[UPDATE] getStudyRoadMap 날짜 오름차순 정렬 및 JSONArray로 type변경" />
+    <MESSAGE value="[UPDATE] getCareerRoadMap 추가 CareerRoadMap에서 데이터 조회" />
+    <MESSAGE value="[FIX] getCareerRoadMap 삭제" />
+    <MESSAGE value="[UPDATE] 변수 r_mCheck &gt;&gt; category 변경 findStudyMap 메소드 생성" />
+    <MESSAGE value="[UPDATE] findStudyMap &quot; &quot;을 기준으로 단어별 검색 완성" />
+    <MESSAGE value="[UPDATE] insertComment - 코멘트 입력시 mongo에 저장, getComment - roadMap에 들어가면 해당 roadMap에 저장된 코멘트 호출" />
+    <MESSAGE value="[UPDATE] 메소드 findStudyMap &gt;&gt; findRoadMap 이름 변경" />
+    <MESSAGE value="[ADD] community jsp, js, css 추가 및 controller 연결 완료" />
+    <MESSAGE value="[ADD] community jsp, js, css 추가 및 controller 연결" />
+    <MESSAGE value="[UPDATE] 만들어져있는 StudyRoadMap를 복사하는 copyRoadMap 추가" />
+    <MESSAGE value="[ADD] comment jsp js css 추가" />
+    <MESSAGE value="[UPDATE] DB 내용 변경으로 함수명등 변경" />
+    <option name="LAST_COMMIT_MESSAGE" value="[UPDATE] DB 내용 변경으로 함수명등 변경" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
