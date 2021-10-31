@@ -9,12 +9,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1cb9ec9f-733f-4764-8a20-0307e8af8621" name="Changes" comment="이건미친짓이야">
+    <list default="true" id="78d17078-5f4a-4e36-baee-ddd998a6b84a" name="Changes" comment="이건미친짓이야">
+      <change afterPath="$PROJECT_DIR$/src/main/java/vo/RequestNodeData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/webContexts.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/webContexts.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/career.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/career.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/controller/RoadMapController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controller/RoadMapController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/controller/StudyMindController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controller/StudyMindController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/domain/StudyMindNodeData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/domain/StudyMindNodeData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/vo/ResponseNodeData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/vo/ResponseNodeData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/mindMap.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/mindMap.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/stroadMap.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/stroadMap.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/stroadMapGuest.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/stroadMapGuest.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,19 +118,14 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="Facets" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.44894204" />
-    <property name="settings.editor.selected.configurable" value="build.tools" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\CSRoadMap\TEST\StudyRoadMap-StudyRoadMap_NOW5\src\main\webapp\WEB-INF\view" />
-      <recent name="C:\Users\wleo5\Desktop\프론트 리얼\StudyRoadMap\src\main\webapp\WEB-INF" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\CsRoadMap\StudyRoadMap\src\main\webapp\WEB-INF\view\images" />
       <recent name="C:\RoadMapPrj#3\src\main\webapp\WEB-INF" />
       <recent name="E:\CSRoadMap\StudyRoadMap\src\main\webapp\resources" />
       <recent name="E:\CSRoadMap\StudyRoadMap\src\main\webapp\WEB-INF\view" />
@@ -154,17 +153,6 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Tomcat 8.5.57" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.57" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="1.8" nameIsGenerated="true">
       <option name="COMMON_VM_ARGUMENTS" value="-Dfile.encoding=UTF-8" />
       <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
@@ -179,7 +167,6 @@
       <server-settings>
         <option name="BASE_DIRECTORY_NAME" value="b503a6ca-c8c8-4f31-8bfd-a308980d75aa" />
         <option name="HTTP_PORT" value="9000" />
-        <option name="JNDI_PORT" value="1088" />
       </server-settings>
       <predefined_log_file enabled="true" id="Tomcat" />
       <predefined_log_file enabled="true" id="Tomcat Catalina" />
@@ -260,7 +247,7 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="1cb9ec9f-733f-4764-8a20-0307e8af8621" name="Changes" comment="이건미친짓이야" />
+      <changelist id="78d17078-5f4a-4e36-baee-ddd998a6b84a" name="Changes" comment="" />
       <created>1632653658849</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -285,23 +272,7 @@
       <workItem from="1634025583366" duration="16699000" />
       <workItem from="1634088315848" duration="26872000" />
       <workItem from="1634124016527" duration="10571000" />
-      <workItem from="1634168430295" duration="31353000" />
-      <workItem from="1634367028629" duration="7554000" />
-      <workItem from="1634375309285" duration="21065000" />
-      <workItem from="1634452609963" duration="672000" />
-      <workItem from="1634454357674" duration="29134000" />
-      <workItem from="1634493662343" duration="13047000" />
-      <workItem from="1634555919395" duration="9672000" />
-      <workItem from="1634607734813" duration="5560000" />
-      <workItem from="1634615556722" duration="10481000" />
-      <workItem from="1634647678091" duration="1258000" />
-      <workItem from="1634703160948" duration="1437000" />
-      <workItem from="1634716060559" duration="949000" />
-      <workItem from="1634731338243" duration="68000" />
-      <workItem from="1634775563794" duration="1037000" />
-      <workItem from="1634793237706" duration="942000" />
-      <workItem from="1634821769591" duration="2573000" />
-      <workItem from="1634862400351" duration="4053000" />
+      <workItem from="1634168430295" duration="11187000" />
     </task>
     <task id="LOCAL-00001" summary="[ADD] 커리어 로드맵 컨트롤러, 서비스, 프론트 추가">
       <created>1633239962316</created>
